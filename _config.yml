@@ -25,11 +25,11 @@ author:
   avatar           : "564B499D-3DE9-4231-B8A2-9C4C3E38D5F2.jpeg"
   name             : "Aanchal Sagwal"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  # bio              : "Short biography for the left-hand sidebar"
+  # location         : "Earth"
   employer         : "University of Chicago"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "aanchalsagwal2@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
